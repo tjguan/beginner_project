@@ -1,1 +1,1 @@
-Simple Django Project exploring templates, views, and URL patterns.
+Django Project exploring templates, views, and URL patterns.
